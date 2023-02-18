@@ -11,9 +11,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/kartheepan-g-04b1bb233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kartheepan | LinkedIn" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/kartheeganapathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Kartheepan | HackerRank" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/kartheepan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kartheepan | Leetcode" height="30" width="40" /></a>
 
 </p>
