@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kartheepan G</h1>
 <h3 align="center">A junior in Masters of Science specialised in Data Science from PSG Tech</h3>
 
-- 📖 I’m currently studying **Masters of Science in Data Science from PSG College of Technology**
+- 📖 In the final lap of my **Data Science master's** in PSG College of Technology
 
-- 💬 Ask me about **Data Science, Data visualization, Data analysis, Machine Learning, Probability and Statistics**
+- 💬 Ask me about **Data Science, Data analysis, Machine Learning, Deep Learning, Probability and Statistics**
 
 - 📫 How to reach me **[kartheeganapathi@gmail.com](mailto:kartheeganapathi@gmail.com)**
 
