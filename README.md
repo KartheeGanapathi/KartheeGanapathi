@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartheepan G</h1>
-<h3 align="center">A junior in Masters of Science specialised in Data Science from PSG Tech</h3>
+<!-- <h3 align="center">A junior in Masters of Science specialised in Data Science from PSG Tech</h3> -->
 
 - 📖 In the final lap of my **Data Science master's** in PSG College of Technology
 
